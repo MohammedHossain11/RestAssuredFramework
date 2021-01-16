@@ -1,0 +1,1 @@
+cd C:\Users\Mohammed Hossain\Desktop\Selenium\Workspace\RestAssuredFramework mvn clean install
